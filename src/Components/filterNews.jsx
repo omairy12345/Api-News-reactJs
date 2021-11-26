@@ -22,7 +22,7 @@ class Buscador extends Component {
 
                 <div style={{ width: '200px' }} className='d-grid grad-4 ms-6'>
                     <button className='btn btn-gradient p-1,8 mb-2 bg-primary text-white d-block' type='submit'>
-                        Buscar
+                        Buscar news
                     </button>
                 </div>
             </form>
